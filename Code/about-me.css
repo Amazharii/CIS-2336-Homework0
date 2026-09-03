@@ -1,3 +1,16 @@
-p{color:red} /*element selector*/
-.CIS2336{font-style: italic; color:green}/*class selector*/
-#first{color:darkblue}/*ID selector*/
+/* Change the page's background color */
+body {
+    background-color: lightblue;
+}
+
+/* Change the font color and size for headings */
+h1, h2, h3 {
+    color: darkblue;
+    font-size: 24px;
+}
+
+/* Change the font color and size for paragraphs */
+p {
+    color: darkgreen;
+    font-size: 16px;
+}
